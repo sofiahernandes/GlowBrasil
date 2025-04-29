@@ -87,26 +87,6 @@ export const products = [
   },
   {
     id: 5,
-    name: "Tracker de Hábitos📜 (Notion)",
-    slug: "tracker-habitos-notion",
-    category: ["Templates", "Planners"],
-    price: 7.77,
-    mainImage: "/habitosNotion1.png",
-    features: [
-      "Controle de hábitos para o seu crecimento",
-      "Organização de tarefas e motivação",
-      "Gestão de frequência dos hábitos",
-    ],
-    description:
-      "Esta ferramenta completa e fácil de usar simplifica a forma como você gerencia e organiza sua vida. Com esse gerenciador de hábitos repleto de funcionalidades você vai alcançar a vida com que sempre sonhou!",
-    quote:
-      "'Todas as grandes coisas vêm de pequenos começos. A semente de todo hábito é uma decisão única e minúscula. Mas à medida que essa decisão é repetida, um hábito brota e se fortalece.'✨ – James Clear",
-    images: ["/habitosNotion1.png", "/habitosNotion2.png"],
-    formats: ["Notion Template ✨"],
-    url: "https://gumroad.com/checkout?product=orxsg&quantity=1&_gl=1*t7i3sr*_ga*MTc5MjUyMTE2NC4xNzQyNDk2OTk1*_ga_6LJN6D94N6*MTc0NDU3MDM1MC4zOC4xLjE3NDQ1NzEwMjYuMC4wLjA."
-  },
-  {
-    id: 6,
     name: "Planner de Estudos 📚 (Notion)",
     slug: "planner-estudos-notion",
     category: ["Templates", "Planners"],
