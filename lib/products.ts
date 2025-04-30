@@ -17,7 +17,7 @@ export const products = [
       "Essa ferramenta completa e intuitiva tornará sua vida financeira infinitamente mais fácil de gerir e organizar. Através de planilhas, análises, gráficos e panoramas, você vai alcançar os resultados financeiros com que sempre sonhou! O planner Minhas Finanças inclui um panorama anual das suas entradas e gastos, controle de investimentos, gestão de metas, além de planilhas detalhadas de cada mês (onde você pode logar suas finanças em diferentes categorias, tipos e muito mais).",
     quote:
       "'Reflita diariamente sobre seu progresso e seu propósito - esse diálogo interno é a bússola que guiará sua jornada para o sucesso.'✨ – Warrant Buffet",
-    images: ["/ipadMinhasFinancas.jpg", "/phoneMinhasFinancas.png"],
+    images: ["/ipadMinhasFinancas.jpg", "/phonesMinhasFinancas.png"],
     formats: ["Google Sheets", "PDF", "Imprimir"],
     url: "https://gumroad.com/checkout?product=qgzyu&quantity=1&_gl=1*fnxiaf*_ga*MTc5MjUyMTE2NC4xNzQyNDk2OTk1*_ga_6LJN6D94N6*MTc0NDE0MTMwMy4zMy4xLjE3NDQxNDE1NDYuMC4wLjA."
   },
@@ -38,7 +38,7 @@ export const products = [
       "Esta ferramenta completa e fácil de usar simplifica a forma como você gerencia e organiza seus estudos. Com planilhas, insights, gráficos e resumos, você vai alcançar o sucesso acadêmico com que sempre sonhou! O planner Meus Estudos inclui análises de questões de múltipla escolha e dissertativas, acompanhamento do tempo/qualidade de estudo e insights, além de gráficos detalhados que rastreiam seus erros/dificuldades.",
     quote:
       "'Quando se trata de cultivar uma aprendizagem eficaz, uma única pergunta provocativa vale mais do que cem proclamações.'✨ – Bernard Bull",
-    images: ["/ipadMeusEstudos.jpg", "/phoneMeusEstudos.png"],
+    images: ["/ipadMeusEstudos.jpg", "/phonesMeusEstudos.png"],
     formats: ["Google Sheets", "PDF", "Imprimir"],
     url: "https://gumroad.com/checkout?product=tdnaw&quantity=1&_gl=1*11ygzet*_ga*MTc5MjUyMTE2NC4xNzQyNDk2OTk1*_ga_6LJN6D94N6*MTc0NDE0MTMwMy4zMy4xLjE3NDQxNDE2ODMuMC4wLjA."
   },
@@ -60,7 +60,7 @@ export const products = [
       "Esta ferramenta completa e fácil de usar transforma a maneira como você organiza sua rotina e seus hábitos. Com planejadores diários, semanais e mensais, insights, tracker de hábitos e calendários, você estará no caminho certo para conquistar a vida com que sempre sonhou!",
     quote:
       "'Você tem cérebro na cabeça. Tem pés nos sapatos. Pode se direcionar para qualquer caminho que desejar.' ✨ – Dr. Seuss",
-    images: ["/ipadPlannerDefinitivo.jpg", "/phonePlannerDefinitivo.png"],
+    images: ["/ipadPlannerDefinitivo.jpg", "/phonesPlannerDefinitivo.png"],
     formats: ["PDF", "Imprimir"],
     url: "https://gumroad.com/checkout?product=pxfxq&quantity=1&_gl=1*ue6pvy*_ga*MTc5MjUyMTE2NC4xNzQyNDk2OTk1*_ga_6LJN6D94N6*MTc0NDE0MTMwMy4zMy4xLjE3NDQxNDE3MjMuMC4wLjA."
   },
@@ -81,7 +81,7 @@ export const products = [
       "Esse template Notion completo e intuitivo tornará sua vida financeira infinitamente mais fácil de gerir e organizar. Através de planilhas, orçamentos e análises você vai alcançar os resultados financeiros com que sempre sonhou! O Planner Financeiro Notion é uma versão Notion da nossa planilha financeira do Google Planilhas ('Minhas Finanças'), com algumas diferenças. Ele inclui controles das suas entradas, gastos, orçamentos, investimentos e metas. Tudo categorizado por data, valor, categoria, entre outros.",
     quote:
       "'Reflita diariamente sobre seu progresso e seu propósito - esse diálogo interno é a bússola que guiará sua jornada para o sucesso.'✨ – Warrant Buffet",
-    images: ["/financasNotion1.png", "/financasNotion2.png"],
+    images: ["/financasNotion1.png", "/notionFinancas2.png"],
     formats: ["Notion Template ✨"],
     url: "https://gumroad.com/checkout?product=dvmwg&quantity=1&_gl=1*ld9d3r*_ga*MTc5MjUyMTE2NC4xNzQyNDk2OTk1*_ga_6LJN6D94N6*MTc0NDU3NTg5NS4zOS4xLjE3NDQ1NzYxNDguMC4wLjA."
   },
@@ -102,7 +102,7 @@ export const products = [
       "Esta ferramenta completa e fácil de usar simplifica a forma como você gerencia e organiza sua vida. Com esse gerenciador de hábitos repleto de funcionalidades você vai alcançar a vida com que sempre sonhou!",
     quote:
       "'Quando se trata de cultivar uma aprendizagem eficaz, uma única pergunta provocativa vale mais do que cem proclamações.'✨ – Bernard Bull",
-    images: ["/estudosNotion1.png", "/estudosNotion2.png"],
+    images: ["/estudosNotion1.png", "/notionEstudos2.png"],
     formats: ["Notion Template ✨"],
     url: "https://gumroad.com/checkout?product=atvoxh&quantity=1&_gl=1*1a7gnbr*_ga*MTc5MjUyMTE2NC4xNzQyNDk2OTk1*_ga_6LJN6D94N6*MTc0NDU3NTg5NS4zOS4xLjE3NDQ1NzYyMjguMC4wLjA."
   },
