@@ -94,12 +94,12 @@ export const products = [
     mainImage: "/estudosNotion1.png",
     features: [
       "Agenda checklist semanal",
-      "Listas de tarefas categorizadas",
       "Calendário mensal sincronizado com as listas de tarefas",
+      "Listas de tarefas categorizadas",
       "Playlist Spotify de estudos embutida!",
     ],
     description:
-      "Esta ferramenta completa e fácil de usar simplifica a forma como você gerencia e organiza sua vida. Com esse gerenciador de hábitos repleto de funcionalidades você vai alcançar a vida com que sempre sonhou!",
+      "Esta ferramenta completa e fácil de usar simplifica a forma como você gerencia e organiza seus estudos. Com listas de tarefas, insights e trackers, você vai alcançar o sucesso acadêmico com que sempre sonhou! O Planner de Estudos Notion inclui listas de tarefas, calendários, uma playlist para estudo embutida, entre outras ferramentas.",
     quote:
       "'Quando se trata de cultivar uma aprendizagem eficaz, uma única pergunta provocativa vale mais do que cem proclamações.'✨ – Bernard Bull",
     images: ["/estudosNotion1.png", "/notionEstudos2.png"],
