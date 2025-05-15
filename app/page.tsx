@@ -75,7 +75,7 @@ export default function Home() {
                       <div className="flex items-center justify-between mt-4">
                       <div className="flex items-center align-middle justify-left">
                         <p className="text-xl font-bold text-blue-600 mt-1">R${product.price}</p>
-                        <p className="font-bold line-through mx-2 mt-1">R${product.price + 5}</p>
+                        <p className="font-bold line-through text-gray-500 mx-2 mt-1">R${product.price + 5}</p>
                       </div>
                         <Button
                           size="sm"
