@@ -74,8 +74,8 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
                         Compre Agora
                       </a>
                     </Button>
-                    <div className="justify-left">
-                      <p className="font-bold text-xs line-through mx-2">R${product.price + 5}</p>
+                    <div className="justify-right">
+                      <p className="font-bold line-through mx-2">R${product.price + 5}</p>
                       <p className="text-xl font-bold text-blue-600 mt-1">R${product.price}</p>
                     </div>
                   </div>

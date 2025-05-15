@@ -73,8 +73,8 @@ export default function Home() {
                       <h3 className="font-semibold text-lg">{product.name}</h3>
                       <p className="text-sm text-gray-500 mt-1">{product.category[0]}</p>
                       <div className="flex items-center justify-between mt-4">
-                      <div className="justify-left">
-                        <p className="font-bold text-xs line-through mx-2">R${product.price + 5}</p>
+                      <div className="justify-right">
+                        <p className="font-bold line-through mx-2">R${product.price + 5}</p>
                         <p className="text-xl font-bold text-blue-600 mt-1">R${product.price}</p>
                       </div>
                         <Button
