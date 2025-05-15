@@ -74,6 +74,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
                         Compre Agora
                       </a>
                     </Button>
+                    <p className="font-bold text-xs">R${product.price + 5}</p>
                     <p className="text-xl font-bold text-blue-600 mt-1">R${product.price}</p>
                   </div>
                 </div>
