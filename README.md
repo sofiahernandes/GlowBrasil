@@ -12,7 +12,7 @@
 
 ## 🚀 Tecnologias Utilizadas
 - **Frontend:** Next.js e React  
-- **Componentes UI:** Radix UI e Tailwind CSS  
+- **Componentes UI:** Radix UI e Tailwind  
 - **Lógica de Produto:** TypeScript  
 - **Hospedagem:** Vercel  
 
@@ -20,12 +20,12 @@
 🔄 Banco de dados em tempo real via Convex  
 📝 Editor de texto estilo Notion  
 🧾 Documentos aninhados infinitamente  
-🗑️ Lixeira com exclusão temporária e recuperação  
+🗑️ Exclusão temporária e recuperação  
 🔐 Autenticação de usuários com Clerk  
 📁 Criar, enviar e excluir arquivos  
-🖼️ Imagem de capa personalizada por documento  
+🖼️ Imagens de capa personalizadas  
 📎 Ícones para documentos com atualização em tempo real  
-📂 Navegação lateral expansível e recolhível  
+📂 Navegação lateral expansível  
 📱 Totalmente responsivo (mobile + desktop)  
 <br/>
 
