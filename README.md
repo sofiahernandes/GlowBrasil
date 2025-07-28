@@ -1,80 +1,80 @@
-# Glow Brasil
-Um conjunto selecionado de planners digitais e ferramentas de produtividade projetados para te ajudar a organizar sua vida, alcançar seus objetivos e cultivar hábitos positivos. Este repositório contém o código fonte da loja virtual interativa da Glow Brasil, apresentando planners, rastreadores e templates para estudo, finanças, crescimento pessoal e muito mais, disponíveis para download.
+<div align="center">
+  <h1>🦋 Glow Global</h1>
+  <p align="center">
+    Ecommerce de planners e ferramentas de produtividade criadas para te ajudar a curar, crescer e florescer!<br/>
+    Encontre todos os planners e templates em <a href="https://glowbrasil.vercel.app/">Glow Global Loja Oficial</a> 🤍
+    <br />
+    <a href="https://github.com/sofiahernandes/notion-clone/issues">Reportar Bug</a>
+    |
+    <a href="https://github.com/sofiahernandes/notion-clone/issues">Sugerir Feature</a>
+  </p>
+</div>
 
----
+## 🚀 Tecnologias Utilizadas
+- **Frontend:** Next.js e React  
+- **Componentes UI:** Radix UI e Tailwind CSS  
+- **Lógica de Produto:** TypeScript  
+- **Hospedagem:** Vercel  
 
-## ✨ Visão Geral
-Glow Brasil oferece uma coleção de produtos digitais fáceis de usar, cada um cuidadosamente criado para simplificar o planejamento e o autoaperfeiçoamento. Se você deseja impulsionar seu desempenho acadêmico, gerenciar suas finanças ou incutir hábitos produtivos, a Glow Brasil oferece uma ferramenta para você.
+## ✨ Funcionalidades
+🔄 Banco de dados em tempo real via Convex  
+📝 Editor de texto estilo Notion  
+🧾 Documentos aninhados infinitamente  
+🗑️ Lixeira com exclusão temporária e recuperação  
+🔐 Autenticação de usuários com Clerk  
+📁 Criar, enviar e excluir arquivos  
+🖼️ Imagem de capa personalizada por documento  
+📎 Ícones para documentos com atualização em tempo real  
+📂 Navegação lateral expansível e recolhível  
+📱 Totalmente responsivo (mobile + desktop)  
+<br/>
 
----
-
-## 🛠️ Tecnologias
-- **Frontend:** Next.js e React
-- **Componentes de UI:** Radix UI e Tailwind CSS
-- **Lógica do Produto:** TypeScript
-- **Implantação:** Vercel
-
----
-
-## 🚀 Começando
+## 🛠️ Começando
 ### Pré-requisitos
-- Node.js (v18 ou superior recomendado)
-- npm ou yarn
+- [Node.js](https://nodejs.org/)
+- [Yarn](https://classic.yarnpkg.com/lang/en/) ou `npm`
+<br/>
 
-### Instalação
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/sofiahernandes/glow-global.git
-   cd glow-global
-   ```
+1. Clonar o Repositório
+```
+git clone https://github.com/sofiahernandes/glow-brasil.git
+cd glow-brasil
+```
 
-2. Instale as dependências:
-   ```bash
-   npm install
-   # ou
-   yarn install
-   ```
+3. Instalar Dependências
+```
+npm install
+# ou
+yarn install
+```
 
-3. Execute o servidor de desenvolvimento:
-   ```bash
-   npm run dev
-   # ou
-   yarn dev
-   ```
+4. Iniciar o Servidor de Desenvolvimento
+```
+npm run dev
+# ou
+yarn dev
+```
+<br/>
 
-4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador para explorar a loja virtual.
-
----
-
-## 📚 Estrutura do Repositório
-- `app/` — Páginas principais e estrutura do site
-- `components/` — Componentes de UI reutilizáveis (carrossel, paginação, navegação, rodapé, etc.)
-- `lib/products.ts` — Definições de produtos e metadados
-- `hooks/` — Lógica desenvolvida em hooks customizados/separados
-- `public/` — Produtos e imagens da loja
-
----
-
-## 🌟 Contribuindo
-Contribuições são bem-vindas! Por favor, abra issues ou envie pull requests para sugestões, correções de bugs ou novos recursos.
-
----
+## 🤝 Contribuindo
+Contribuições são o que tornam a comunidade open-source tão incrível. Toda contribuição é muito bem-vinda!
+1. Faça um fork do projeto
+2. Crie uma branch para sua funcionalidade (`git checkout -b feature/minha-funcionalidade`)
+3. Commit suas alterações (`git commit -m 'Adiciona nova funcionalidade'`)
+4. Dê push para a branch (`git push origin feature/minha-funcionalidade`)
+5. Abra um Pull Request
+<br/>
 
 ## 📄 Licença
-© 2024 Sofia Botechia Hernandes. Todos os direitos reservados.
+Este projeto é código fechado e protegido sob a licença [**Todos os Direitos Reservados**](LICENSE).  
+Você não pode usar, distribuir ou modificar este código sem permissão explícita da autora.
 
----
+<br/>
 
-## 👩‍💻 Autora
-Criado e mantido por [sofiahernandes](https://github.com/sofiahernandes).
-
----
-
-## 💡 Inspiração
-> "Reflita diariamente sobre seu progresso e seu propósito — este diálogo interno é a bússola que guiará sua jornada para o sucesso." ✨ – Warren Buffet
-> "Quando se trata de cultivar um aprendizado eficaz, uma pergunta provocativa vale mais do que uma centena de proclamações." ✨ – Bernard Bull
-
----
-
-## 🛒 Compre na Glow!
-Encontre todos os planners e templates na [Glow Global Gumroad Store](https://glowglobal.vercel.app/) para crescer e prosperar!
+## 📩 VAMOS CONVERSAR!
+Linkedin: [Sofia B. Hernandes](https://www.linkedin.com/in/sofiahernandes)  
+Instagram: [@sofiabotechiaa](https://www.instagram.com/sofiabotechiaa/)  
+Email: [sofiahernandes.dev@gmail.com](mailto:sofiahernandes.dev@gmail.com)  
+X: [/sofiaahernandes](https://x.com/sofiaahernandes)  
+Pinterest: [sofiabfit](https://pin.it/5gRW2R2bW)  
+Github: [sofiahernandes](https://github.com/sofiahernandes)
