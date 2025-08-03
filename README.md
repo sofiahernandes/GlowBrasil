@@ -71,10 +71,12 @@ Você não pode usar, distribuir ou modificar este código sem permissão explí
 
 <br/>
 
-## 📩 VAMOS CONVERSAR!
-Linkedin: [Sofia B. Hernandes](https://www.linkedin.com/in/sofiahernandes)  
-Instagram: [@sofiabotechiaa](https://www.instagram.com/sofiabotechiaa/)  
-Email: [sofiahernandes.dev@gmail.com](mailto:sofiahernandes.dev@gmail.com)  
-X: [/sofiaahernandes](https://x.com/sofiaahernandes)  
-Pinterest: [sofiabfit](https://pin.it/5gRW2R2bW)  
-Github: [sofiahernandes](https://github.com/sofiahernandes)
+---
+
+<div align="center">
+  <h1>📩 Let's connect!</h1>
+  <a href="https://github.com/sofiahernandes"><img height="30px" src="https://skillicons.dev/icons?i=github"/></a><span> ∙ </span>
+  <a href="https://www.linkedin.com/in/sofiahernandes"><img height="30px" src="https://skillicons.dev/icons?i=linkedin"/></a><span> ∙ </span>
+  <a href="mailto:sofiahernandes.dev@gmail.com"><img height="30px" src="https://skillicons.dev/icons?i=gmail"/></a><span> ∙ </span>
+  <a href="https://www.instagram.com/sofiabotechiaa/"><img height="30px" src="https://skillicons.dev/icons?i=instagram"/></a>
+</div>
