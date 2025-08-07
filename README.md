@@ -17,15 +17,8 @@
 - **Hospedagem:** Vercel  
 
 ## ✨ Funcionalidades
-🔄 Banco de dados em tempo real via Convex  
-📝 Editor de texto estilo Notion  
-🧾 Documentos aninhados infinitamente  
-🗑️ Exclusão temporária e recuperação  
-🔐 Autenticação de usuários com Clerk  
-📁 Criar, enviar e excluir arquivos  
-🖼️ Imagens de capa personalizadas  
-📎 Ícones para documentos com atualização em tempo real  
-📂 Navegação lateral expansível  
+🏃‍♀️ Seções e Páginas Navegáveis  
+🤝 Integração com Gumroad  
 📱 Totalmente responsivo (mobile + desktop)  
 <br/>
 
